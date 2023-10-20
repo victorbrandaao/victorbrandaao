@@ -7,8 +7,6 @@
 
 🌱 Atualmente estou aprendendo mais sobre segurança web e desenvolvimento de API.
 
-📈 Meus status no GitHub:
-![Seus stats do GitHub](https://github-readme-stats.vercel.app/api?username=victorbrandaao)
 
 🔗 Conecte-se comigo:
 - [LinkedIn]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/victorbrandaao/))
