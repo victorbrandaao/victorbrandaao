@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou [Seu Nome]!
 
-<!--
-**victorbrandaao/victorbrandaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sou um desenvolvedor apaixonado por criar soluções web inovadoras e eficientes.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que eu uso:
+- PHP, MySQL, JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente estou aprendendo mais sobre segurança web e desenvolvimento de API.
+
+📈 Meus status no GitHub:
+![Seus stats do GitHub](https://github-readme-stats.vercel.app/api?username=victorbrandaao)
+
+🔗 Conecte-se comigo:
+- [LinkedIn]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/victorbrandaao/))
+- [Twitter](https://twitter.com/vitubrandao)
+- [Meu Portfólio](https://victorbrandaotech.online)
+
+📦 Projetos que eu estou orgulhoso:
+- [Jogo de Ouro: Sistema de Resgate de Tokens](https://github.com/seu_username/jogo-de-ouro)
