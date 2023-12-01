@@ -9,7 +9,7 @@
 
 
 🔗 Conecte-se comigo:
-- [LinkedIn]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/victorbrandaao/))
+- [LinkedIn](https://www.linkedin.com/in/victorbrandaao/))
 - [Twitter](https://twitter.com/vitubrandao)
 - [Meu Portfólio](https://victorbrandaotech.online)
 
