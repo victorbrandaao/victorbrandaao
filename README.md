@@ -3,7 +3,7 @@
 👨‍💻 Sou um desenvolvedor apaixonado por criar soluções web inovadoras e eficientes.
 
 🛠️ Tecnologias que eu uso:
-- PHP, MySQL, JavaScript, HTML, CSS
+- HTML, CSS, JAVASCRIPT e JAVA
 
 🌱 Atualmente estou aprendendo mais sobre segurança web e desenvolvimento de API.
 
