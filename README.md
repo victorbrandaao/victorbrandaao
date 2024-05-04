@@ -11,7 +11,7 @@
 🔗 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/victorbrandaao/))
 - [Twitter](https://twitter.com/vitubrandao)
-- [Meu Portfólio](https://victorbrandaotech.online)
+- [Meu Portfólio](https://victorbrandaao.github.io/meu-portfolio/)
 
 📦 Projetos que eu estou orgulhoso:
 - [Jogo de Ouro: Sistema de Resgate de Tokens](https://github.com/seu_username/jogo-de-ouro)
