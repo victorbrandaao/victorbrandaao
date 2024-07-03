@@ -1,6 +1,6 @@
 # Olá, eu sou Victor Brandão!
 
-👨‍💻 Sou um desenvolvedor apaixonado por criar soluções web inovadoras e eficientes.
+👨‍💻 Sou um desenvolvedor apaixonado por criar soluções inovadoras
 
 🛠️ Tecnologias que eu uso:
 - HTML, CSS, Python/Flask
