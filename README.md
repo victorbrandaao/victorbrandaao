@@ -1,4 +1,13 @@
-# Olá, eu sou Victor Brandão! Sou um desenvolvedor apaixonado por criar soluções criativas e eficientes usando C# e .NET. Meu foco está em resolver problemas complexos e contribuir para um mundo digital mais seguro e acessível.
+# Olá, eu sou Victor Brandão! 👋
+
+Desenvolvedor apaixonado por criar soluções criativas e eficientes usando **C#** e **.NET**.  
+Meu objetivo é resolver problemas complexos, desenvolver aplicações robustas e contribuir para um mundo digital mais seguro e acessível.  
+
+Atualmente, estou focado em **segurança no desenvolvimento de software**, explorando práticas modernas de proteção de APIs, autenticação e controle de acesso.  
+Além disso, adoro compartilhar conhecimentos e colaborar em projetos que tenham impacto positivo na comunidade de desenvolvedores.  
+
+Vamos nos conectar? 🌟  
+
 
 ![GitHub followers](https://img.shields.io/github/followers/victorbrandaao?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/victorbrandaao?style=social)
@@ -38,6 +47,5 @@ Atualmente, estou explorando conceitos avançados de segurança no desenvolvimen
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorbrandaao&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrandaao&layout=compact&theme=dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=victorbrandaao&color=blue)
+
