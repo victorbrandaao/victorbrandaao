@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Victor Brandão, um Engenheiro de Software apaixonado por automação e soluções de dados! 🚀
+# Olá! 👋 Eu sou Victor Brandão
 
 Com expertise em **C#** e **.NET**, meu foco é criar aplicações robustas, escaláveis e seguras que simplifiquem processos e liberem o poder dos dados. 🎯
 
