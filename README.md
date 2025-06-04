@@ -13,10 +13,10 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software** no 2º ano, apaixonado por tecnologia e inovação. Atualmente, atuo como **Gerente de IA N8N/Supabase** na [Processtec.com.br](https://processtec.com.br), onde desenvolvo soluções de automação e integração de dados.
+Sou estudante de **Engenharia de Software** no 3º ano, apaixonado por tecnologia e inovação. Atualmente, atuo como **Gerente de IA N8N/Supabase** na [Processtec.com.br](https://processtec.com.br), onde desenvolvo soluções de automação e integração de dados.
 
 - 🎯 **Foco atual:** Salesforce Development & Automação de Processos
-- 🌱 **Aprendendo:** C#/.NET, Python, APIs RESTful e Salesforce Platform
+- 🌱 **Aprendendo:** C#/.NET, APIs RESTful e Salesforce Platform
 - 💼 **Experiência:** Automação de fluxos, integração de dados e desenvolvimento de APIs
 - 🎓 **Certificações:** Trabalhando em direção ao Salesforce Certified Platform Developer I
 - 💬 **Filosofia:** Sempre aberto a novos desafios e aprendizados contínuos
