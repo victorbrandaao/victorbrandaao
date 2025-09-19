@@ -1,36 +1,23 @@
-# Olá, eu sou Victor Brandão 👋
+# Victor Brandão
 
-Sou desenvolvedor de software em transição para **DevOps** e Engenharia de Plataforma.  
-Tenho experiência com Salesforce, C#/.NET, automação e integração de sistemas, e estou focado em CI/CD, Docker e infraestrutura como código.
+Desenvolvedor fazendo transição para DevOps. Trabalho com Salesforce, C# e automação, mas agora estou focando em CI/CD, Docker e infraestrutura como código.
 
----
+## Habilidades
 
-## 🚀 Habilidades
+- Docker, GitHub Actions, Terraform, Linux
+- C#/.NET Core, APIs REST, PostgreSQL
+- Salesforce (Apex, LWC)
+- Automação e integração de sistemas
 
-- **DevOps (foco atual)**: GitHub Actions, Docker, Terraform, Linux, CI/CD  
-- **Backend**: C#/.NET Core, APIs REST, PostgreSQL  
-- **Automação**: n8n, Supabase, Web Scraping  
-- **Outros**: Salesforce (Apex, LWC), Git
+## Projetos
 
----
+- **SalesforceArcPilot** – Ferramenta para organizar orgs Salesforce
+- **File Organizer CLI** – Organizador de arquivos em C#
 
-## 📌 Projetos atuais
+## Próximos passos
 
-*(Enquanto construo meu portfólio DevOps, mantenho alguns projetos de destaque)*  
-- **SalesforceArcPilot** – Ferramenta para organizar e monitorar orgs Salesforce  
-- **Event Management System** – Sistema de eventos no Salesforce com triggers Apex  
-- **File Organizer CLI** – Organizador de arquivos local em C#
+- Melhorar pipelines CI/CD
+- Aprender Kubernetes
+- Trabalhar mais com Terraform
 
----
-
-## 🎯 Próximos passos
-
-- Criar pipelines CI/CD completas  
-- Automatizar deploys com Docker/Kubernetes  
-- Infraestrutura como código com Terraform  
-- Monitoramento com Prometheus/Grafana  
-
----
-
-📫 **Conecte-se comigo:** [victorbrandao.tech](https://victorbrandao.tech)  
-📍 Recife, Brasil
+**Contato:** [victorbrandao.tech](https://victorbrandao.tech) | Recife, Brasil
