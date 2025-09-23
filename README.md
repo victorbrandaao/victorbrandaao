@@ -1,10 +1,10 @@
 # Victor Brandão
 
-Desenvolvedor fazendo transição para DevOps. Trabalho com Salesforce, C# e automação, mas agora estou focando em CI/CD, Docker e infraestrutura como código.
+Desenvolvedor fazendo transição para DevOps. C# e automação, mas agora estou focando em CI/CD, Docker e infraestrutura como código.
 
 ## Habilidades
 
-- Docker, GitHub Actions, Terraform, Linux
+- Docker, GitHub Actions, Terraform.
 - C#/.NET Core, APIs REST, PostgreSQL
 - Salesforce (Apex, LWC)
 - Automação e integração de sistemas
