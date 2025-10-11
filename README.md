@@ -1,23 +1,41 @@
 # Victor Brandão
 
-Desenvolvedor fazendo transição para DevOps. C# e automação, mas agora estou focando em CI/CD, Docker e infraestrutura como código.
+Desenvolvedor C# com foco em DevOps, segurança da informação e boas práticas de desenvolvimento. Apaixonado por soluções inovadoras e automação de processos.
 
-## Habilidades
+## 🚀 Habilidades
 
-- Docker, GitHub Actions, Terraform.
-- C#/.NET Core, APIs REST, PostgreSQL
-- Salesforce (Apex, LWC)
+### DevOps & Infraestrutura
+- Docker, GitHub Actions, CI/CD
+- Terraform (Infraestrutura como Código)
 - Automação e integração de sistemas
 
-## Projetos
+### Desenvolvimento
+- C#/.NET Core, APIs REST
+- PostgreSQL e bancos de dados relacionais
+- Salesforce (Apex, LWC)
+- Boas práticas de código e clean code
 
-- **SalesforceArcPilot** – Ferramenta para organizar orgs Salesforce
-- **File Organizer CLI** – Organizador de arquivos em C#
+### Segurança
+- Segurança da informação
+- Boas práticas de desenvolvimento seguro
 
-## Próximos passos
+## 📂 Projetos em Destaque
 
-- Melhorar pipelines CI/CD
-- Aprender Kubernetes
-- Trabalhar mais com Terraform
+- **SalesforceArcPilot** – Ferramenta para organizar e gerenciar orgs Salesforce
+- **File Organizer CLI** – Organizador inteligente de arquivos em C#
 
-**Contato:** [victorbrandao.tech](https://victorbrandao.tech) | Recife, Brasil
+## 🎯 Foco Atual
+
+- Aprimoramento em pipelines CI/CD
+- Kubernetes e orquestração de containers
+- Aprofundamento em Terraform
+- Segurança em aplicações e infraestrutura
+
+## 📫 Contato
+
+**Website:** [victorbrandao.tech](https://victorbrandao.tech)  
+**Localização:** Recife, Brasil
+
+---
+
+💡 *Sempre em busca de novos desafios e oportunidades para criar soluções inovadoras!*
