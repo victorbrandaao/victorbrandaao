@@ -31,11 +31,3 @@ Desenvolvedor C# com foco em DevOps, segurança da informação e boas práticas
 - Aprofundamento em Terraform
 - Segurança em aplicações e infraestrutura
 
-## 📫 Contato
-
-**Website:** [victorbrandao.tech](https://victorbrandao.tech)  
-**Localização:** Recife, Brasil
-
----
-
-💡 *Sempre em busca de novos desafios e oportunidades para criar soluções inovadoras!*
