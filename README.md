@@ -1,33 +1,68 @@
-# Victor Brandão
+# Olá! Sou o Victor Brandão 👋
 
-Desenvolvedor C# com foco em DevOps, segurança da informação e boas práticas de desenvolvimento. Apaixonado por soluções inovadoras e automação de processos.
+**Desenvolvedor | Estudante de Engenharia de Software | Entusiasta DevOps & Salesforce**
+📍 Recife, PE, Brasil
 
-## 🚀 Habilidades
+Sou um desenvolvedor focado no ecossistema **C#/.NET** e no desenvolvimento na plataforma **Salesforce**, além de ser um grande entusiasta de **DevOps**, infraestrutura e segurança da informação. Busco sempre criar soluções inovadoras, automatizar processos e garantir a entrega de código limpo e seguro. 
 
-### DevOps & Infraestrutura
-- Docker, GitHub Actions, CI/CD
-- Terraform (Infraestrutura como Código)
-- Automação e integração de sistemas
+Atualmente, estou aprimorando minhas habilidades no **Training Camp Funcional Talentos Diversos 2026** e possuo formação em Engenharia de Plataforma pela CESAR School.
 
-### Desenvolvimento
-- C#/.NET Core, APIs REST
-- PostgreSQL e bancos de dados relacionais
-- Salesforce (Apex, LWC)
-- Boas práticas de código e clean code
+---
 
-### Segurança
-- Segurança da informação
-- Boas práticas de desenvolvimento seguro
+## ☁️ Minha Jornada Salesforce
+
+Tenho me aprofundado continuamente no ecossistema Salesforce, resolvendo desafios práticos no **Trailhead** e construindo soluções customizadas. Minha experiência inclui:
+
+* **Desenvolvimento Customizado:** Criação de componentes modernos com **Lightning Web Components (LWC)** e lógica de back-end utilizando **Apex**.
+* **Ferramentas e Ambiente:** Configuração avançada e troubleshooting de ambientes de desenvolvimento (VS Code, Salesforce CLI, resolução de integrações e autenticação de Orgs).
+* **DevOps para Salesforce:** Aplicação dos meus conhecimentos de infraestrutura para melhorar o ciclo de vida do desenvolvimento Salesforce, facilitando o gerenciamento de ambientes.
+
+---
+
+## 🚀 Tecnologias e Habilidades
+
+### ⚙️ DevOps & Infraestrutura
+* **Containers & Orquestração:** Docker, Kubernetes
+* **CI/CD:** GitHub Actions, Automação de Pipelines
+* **Infraestrutura como Código (IaC):** Terraform
+
+### 💻 Desenvolvimento Back-end
+* **C# / .NET Core:** Desenvolvimento de APIs REST, Arquitetura de Software
+* **Banco de Dados:** PostgreSQL e bancos relacionais
+* **Boas Práticas:** Clean Code, Design Patterns, SOLID
+
+### 🔒 Segurança
+* Segurança da Informação
+* Boas práticas de desenvolvimento seguro (DevSecOps)
+
+---
 
 ## 📂 Projetos em Destaque
 
-- **SalesforceArcPilot** – Ferramenta para organizar e gerenciar orgs Salesforce
-- **File Organizer CLI** – Organizador inteligente de arquivos em C#
+* **[SalesforceArcPilot](https://github.com/victorbrandaao/SalesforceArcPilot)**: Ferramenta focada na organização e gerenciamento eficiente de orgs Salesforce, unindo desenvolvimento e automação.
+* **[File Organizer CLI](https://github.com/victorbrandaao/File-Organizer-CLI)**: Um organizador de arquivos inteligente desenvolvido em C# rodando via linha de comando.
+* **[InstaChecker](https://github.com/victorbrandaao)**: Projeto focado em integrações e verificações automatizadas.
+* **[BarbeariaApi](https://github.com/victorbrandaao)**: API construída para o gerenciamento de serviços e agendamentos de barbearias.
 
-## 🎯 Foco Atual
+---
 
-- Aprimoramento em pipelines CI/CD
-- Kubernetes e orquestração de containers
-- Aprofundamento em Terraform
-- Segurança em aplicações e infraestrutura
+## 🎯 Foco Atual de Estudos
 
+* Resolução de novos desafios e superbadges no ecossistema Salesforce (Trailhead).
+* Aprofundamento em **Kubernetes** e orquestração avançada de containers.
+* Construção de infraestruturas resilientes com **Terraform**.
+* Aprimoramento contínuo em automação de esteiras **CI/CD** e práticas de segurança.
+
+---
+
+## 📫 Como me encontrar
+
+- ☁️ **Salesforce Trailblazer:** [victorbrandaao](https://trailblazer.me/id/victorbrandaao)
+- 🌐 **Portfólio:** [victorbrandao.tech](https://victorbrandao.tech)
+- 💼 **LinkedIn:** [https://linkedin.com/in/victorbrandaao]
+- ✉️ **E-mail:** [victorbrandaotech@gmail.com]
+
+<br/>
+<div align="center">
+  <i>"Automatizar o presente para focar no futuro."</i>
+</div>
