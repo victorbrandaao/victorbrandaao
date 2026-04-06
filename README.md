@@ -72,8 +72,8 @@ Aqui estão as tecnologias com as quais trabalho e estudo diariamente:
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://victorbrandao.tech)
 [![Trailblazer](https://img.shields.io/badge/Trailblazer-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/victorbrandaao)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorbrandaao) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbrandaotech@gmail.com)
 
 <br/>
 <div align="center">
