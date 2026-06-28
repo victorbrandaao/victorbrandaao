@@ -1,59 +1,62 @@
 # Olá, eu sou o Victor Brandão
 
-**Engenheiro de Software & Analista Funcional** | Recife, PE
+Sou estudante de Engenharia de Software e atuo como Analista Funcional, com foco em Salesforce, backend, automação e produtos digitais.
 
-Atuo na interseção entre regra de negócio, engenharia de software e plataforma. Tenho foco em Salesforce, backend, DevOps e produtos digitais, combinando visão funcional com execução técnica para criar soluções úteis, escaláveis e bem sustentadas.
+Gosto de trabalhar onde regra de negócio e engenharia se encontram: entender o problema, transformar em solução viável e entregar algo que pessoas reais consigam usar.
 
-## Sobre Mim
+Atualmente tenho estudado e construído em três frentes:
 
-- Analista Funcional no Training Camp DreamXp, pela Pitang.
-- Estudante de Engenharia de Software.
-- Especializado em Platform Engineering pela CESAR School.
-- Expeditioner no Trailhead, no ecossistema Salesforce.
-- Criador do CloudBoost, app macOS para estabilidade em sessões de gaming.
+- **Salesforce e CRM**: análise funcional, automações, Apex, LWC, integrações e desenho de processos.
+- **Backend e plataforma**: C#, .NET, PostgreSQL, APIs, CI/CD, Docker e boas práticas de arquitetura.
+- **Produtos próprios**: apps e ferramentas pequenas, úteis e sustentáveis, com atenção a UX, suporte e distribuição.
 
-## Stack Principal
-
-**Salesforce & CRM**  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-**Backend & Banco de Dados**  
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## Projetos em Destaque
+## Projeto em destaque
 
 ### [CloudBoost](https://github.com/victorbrandaao/CloudBoost)
-Aplicativo nativo para macOS focado em estabilidade para cloud gaming e gaming no Mac. Ajuda a reduzir interrupções locais, monitorar spikes, diagnosticar jitter, observar tráfego em segundo plano e melhorar sessões em serviços como GeForce NOW, Xbox Cloud Gaming, Boosteroid, Moonlight e jogos como League of Legends e Dota 2.
+
+CloudBoost é um app nativo para macOS focado em estabilidade de sessões de jogos no Mac.
+
+Ele ajuda usuários de cloud gaming, remote play e jogos nativos a entenderem melhor picos de latência, jitter, perda de pacote, pressão local do sistema, Wi-Fi/AWDL e tráfego em segundo plano.
+
+O projeto começou como uma automação pessoal e virou um produto real, com usuários, vendas, suporte via Discord e melhorias guiadas por feedback.
+
+Links:
+
+- Site: [victorbrandaao.github.io/CloudBoost](https://victorbrandaao.github.io/CloudBoost/)
+- Releases: [github.com/victorbrandaao/CloudBoost/releases](https://github.com/victorbrandaao/CloudBoost/releases)
+- Matéria no MacMagazine: [CloudBoost otimiza a experiência de jogos na nuvem no Mac](https://macmagazine.com.br/post/2026/06/01/cloudboost-otimiza-a-experiencia-de-jogos-na-nuvem-no-mac/)
+
+## Outros projetos
 
 ### [Connecta Salesforce Architecture](https://github.com/victorbrandaao/connecta-salesforce-architecture)
-Monorepo de arquitetura B2B com Service Cloud, Sales Cloud, automações, Flows de troubleshooting e Apex para higienização e tratamento de dados.
 
-### [BarbeariaApi](https://github.com/victorbrandaao)
-API REST para gestão e agendamento de serviços, construída com C#, .NET e PostgreSQL, com foco em backend estruturado e práticas de CI/CD.
+Monorepo de arquitetura B2B com Service Cloud, Sales Cloud, fluxos de atendimento, automações e Apex para tratamento de dados.
 
 ### [File Organizer CLI](https://github.com/victorbrandaao/File-Organizer-CLI)
-Utilitário de linha de comando em .NET para organização inteligente de diretórios, com foco em performance e automação local.
+
+Utilitário em .NET para organização local de diretórios, com foco em automação simples e performance.
 
 ### [SalesforceArcPilot](https://github.com/victorbrandaao/SalesforceArcPilot)
-Ferramenta para automação e gerenciamento de Orgs Salesforce, facilitando rotinas de desenvolvimento, configuração e deploy.
 
-## Conecte-se comigo
+Ferramenta para apoiar rotinas de desenvolvimento, configuração e deploy em ambientes Salesforce.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorbrandaao)
-[![Trailhead](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/victorbrandaao)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://victorbrandao.tech)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbrandaotech@gmail.com)
+## Tecnologias
+
+**Salesforce:** Apex, LWC, Flows, Service Cloud, Sales Cloud  
+**Backend:** C#, .NET, PostgreSQL, REST APIs  
+**DevOps:** Docker, GitHub Actions, Terraform, AWS  
+**Produto:** macOS, Swift, distribuição independente, documentação e suporte ao usuário
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/victorbrandaao](https://linkedin.com/in/victorbrandaao)
+- Trailhead: [trailblazer.me/id/victorbrandaao](https://trailblazer.me/id/victorbrandaao)
+- Portfólio: [victorbrandao.tech](https://victorbrandao.tech)
+- Email: [victorbrandaotech@gmail.com](mailto:victorbrandaotech@gmail.com)
 
 ---
 
-
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=victorbrandaao&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrandaao&layout=compact&theme=default" alt="Most used languages">
+</div>
